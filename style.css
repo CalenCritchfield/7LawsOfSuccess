@@ -256,6 +256,14 @@ footer {
   opacity: 0.8;
 }
 
+footer a {
+  color: var(--primary-color);
+  text-decoration: none;
+  transition: color 0.3s ease;
+  /* make it bold */
+  font-weight: 900;
+}
+
 @media (max-width: 600px) {
   body {
     padding: 10px;
