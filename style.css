@@ -260,7 +260,6 @@ footer a {
   color: var(--primary-color);
   text-decoration: none;
   transition: color 0.3s ease;
-  /* make it bold */
   font-weight: 900;
 }
 
